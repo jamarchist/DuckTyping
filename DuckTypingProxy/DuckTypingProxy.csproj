@@ -54,6 +54,7 @@
     <Reference Include="Microsoft.CSharp" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Anon.cs" />
     <Compile Include="DuckTypingExtensions.cs" />
     <Compile Include="DuckTypingInterceptor.cs" />
     <Compile Include="InvocationExtensions.cs" />

@@ -53,6 +53,7 @@
     <Compile Include="OverloadResolutionExamples.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="AnonymousTypeProxyTests.cs" />
+    <Compile Include="UtilityClassExamples.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
